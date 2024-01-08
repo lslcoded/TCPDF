@@ -16,9 +16,8 @@
     "license": "LGPL-3.0-or-later",
     "authors": [
         {
-            "name": "Nicola Asuni",
-            "email": "info@tecnick.com",
-            "role": "lead"
+            "name": "lslcoded",
+            "email": "lslcoding@gmail.com"
         }
     ],
     "require": {
